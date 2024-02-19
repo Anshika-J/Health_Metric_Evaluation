@@ -1,4 +1,4 @@
-# bmi_application
+# Health Metric Evaluation
 
 A new Flutter project.
 
